@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Please see the package documentation at https://godoc.org/github.com/bitnine-oss/agensgraph-golang for the detailed documentation and basic usage examples.
+Please see the package documentation at https://godoc.org/github.com/skaiworldwide-oss/agensgraph-golang for the detailed documentation and basic usage examples.
 
 ## Tests
 You may run the following command to test AgensGraph Go Driver optional `-ag.test.server` flag for server test.

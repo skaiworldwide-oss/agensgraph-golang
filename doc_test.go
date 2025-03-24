@@ -19,7 +19,7 @@ package ag_test
 import (
 	"database/sql"
 
-	"github.com/bitnine-oss/agensgraph-golang"
+	"github.com/skaiworldwide-oss/agensgraph-golang"
 )
 
 var db *sql.DB
